@@ -1,6 +1,11 @@
 
 <img width="60%" height="30%" src="public/images/guardians.png"> 
 
+## Table of Contents
+   - [Contact Us](./contact_us.md)
+   - [User Guide](./user_guide.md)
+   - [Password Guardian Application](https://github.com/Guardians-of-the-Software-Galaxy/password-guardian)
+
 ## Description
 
 Password Guardian is a simple yet powerful python application that acts as an encrypted database for login credentials. Simply remember your **Password Guardian** login name and credential to gain access to your online credential manager. Reduce exposure to data collection used by google and other services manage your login credentials by storing them locally and encrypted on your machine! 
@@ -20,4 +25,6 @@ All encryption is done using the fernet library.
 ### GetPass
 
 Linux style password output masking is done using the getpass library.
+
+
 
