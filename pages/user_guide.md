@@ -8,7 +8,7 @@ permalink: /pages/user_guide
 
 Download the zip file from [here](https://github.com/Guardians-of-the-Software-Galaxy/password-guardian).
 
-<img src="../public/images/zip.png"> 
+<img src="../public/images/zip.png" width="230" height="300"> 
 
 The downloaded zip file will need to be decompressed
 
@@ -16,7 +16,7 @@ The downloaded zip file will need to be decompressed
 
 Now the file contents are visible, notice that there is no data.txt file or filekey.key file. These files are generated upon creation of a password guardian instance.
 
-<img src="../public/images/unpack.png"> 
+<img src="../public/images/unpack.png" > 
 
 From there cd into the directory
 
