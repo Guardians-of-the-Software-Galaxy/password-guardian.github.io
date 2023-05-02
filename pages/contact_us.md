@@ -4,4 +4,17 @@ title: "Contact Us"
 permalink: /pages/contact_us
 ---
 
-# Contact
+# Meet the Team
+
+* Nicholas Carr: 
+    * [Portfolio](https://nicholasbcarr.github.io/)
+    ![image](../public/images/nick.jpg)
+* Linda
+    * [Portfolio]()
+    ![image]()
+* Larissa
+    * [Portfolio]()
+    ![image]()
+* Justin
+    * [Portfolio]())
+    ![image]()
