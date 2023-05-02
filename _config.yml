@@ -3,3 +3,4 @@ title: Nicholas Carr | Professional Portfolio
 url: "https://password-guardian.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
+theme: jekyll-theme-midnight
