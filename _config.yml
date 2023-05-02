@@ -1,6 +1,1 @@
-title: Password Guardian
-# Edit next line, replacing 'techfolios' with your github username
-url: "https://guardians-of-the-software-galaxy.github.io/password-guardian.github.io/"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ""
 theme: merlot
