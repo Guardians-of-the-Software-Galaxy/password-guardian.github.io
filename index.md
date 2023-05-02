@@ -1,5 +1,5 @@
 
-<img class="ui right floated image" src="public/images/guardians.png"> 
+<img width="60%" height="30%" src="public/images/guardians.png"> 
 
 ## Description
 
