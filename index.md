@@ -1,6 +1,6 @@
 # Password Guardians
 
-![image](public/images/guardians.png)
+![image](./public/images/guardians.png)
 
 # Description
 
