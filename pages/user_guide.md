@@ -8,7 +8,7 @@ permalink: /pages/user_guide
 
 Download the zip file from [here](https://github.com/Guardians-of-the-Software-Galaxy/password-guardian).
 
-<img src="public/images/guardians.png"> 
+<img src="public/images/zip.png"> 
 
 The downloaded zip file will need to be decompressed
 
