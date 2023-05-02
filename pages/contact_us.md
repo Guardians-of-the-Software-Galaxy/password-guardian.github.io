@@ -17,5 +17,5 @@ permalink: /pages/contact_us
     * [Portfolio]()
     ![image]()
 * Justin
-    * [Portfolio]())
+    * [Portfolio]()
     ![image]()
