@@ -2,8 +2,8 @@
 <img width="60%" height="30%" src="public/images/guardians.png"> 
 
 ## Table of Contents
-   - [Contact Us](../user_guide.md)
-   - [User Guide](../contact_us.md)
+   - [Contact Us](/pages/user_guide.md)
+   - [User Guide](/pages/contact_us.md)
    - [Password Guardian Application](https://github.com/Guardians-of-the-Software-Galaxy/password-guardian)
 
 ## Description
