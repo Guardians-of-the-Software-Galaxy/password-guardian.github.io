@@ -8,7 +8,7 @@ permalink: /pages/contact_us
 
 * Nicholas Carr: 
     * [Portfolio](https://nicholasbcarr.github.io/)
-    <img src="../public/images/zip.png">
+    <img src="../public/images/nick.jpg">
     
 * Linda
     * [Portfolio]()
