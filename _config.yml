@@ -3,4 +3,6 @@ title: Password Guardian
 url: "https://guardians-of-the-software-galaxy.github.io/password-guardian.github.io/"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
-theme: jekyll-theme-modernist
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+- jekyll-remote-theme 
